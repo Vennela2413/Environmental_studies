@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Types of Pollution</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f0f4f8;
+}
+
+header {
+background-color: #2d3e50;
+color: white;
+padding: 1em;
+text-align: center;
+}
+
+nav {
+background-color: #34495e;
+display: flex;
+justify-content: space-around;
+padding: 1em 0;
+}
+
+nav a {
+color: white;
+text-decoration: none;
+padding: 0.5em 1em;
+}
+
+nav a:hover {
+background-color: #2d3e50;
+border-radius: 4px;
+}
+
+section {
+padding: 2em;
+margin: 1em;
+background-color: white;
+border-radius: 8px;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+color: #34495e;
+}
+
+footer {
+background-color: #2d3e50;
+color: white;
+text-align: center;
+padding: 1em;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Understanding Different Types of Pollution</h1>
+<p>Learn about various types of pollution and their impact on our environment.</p>
+</header>
+
+<nav>
+<a href="#air-pollution">Air Pollution</a>
+<a href="#water-pollution">Water Pollution</a>
+<a href="#soil-pollution">Soil Pollution</a>
+<a href="#noise-pollution">Noise Pollution</a>
+<a href="#light-pollution">Light Pollution</a>
+</nav>
+
+<main>
+<section id="air-pollution">
+<h2>Air Pollution</h2>
+<p>Air pollution is the presence of harmful substances in the atmosphere, primarily due to emissions from industries, vehicles, and other human activities. It affects air quality and can lead to respiratory problems.</p>
+</section>
+
+<section id="water-pollution">
+<h2>Water Pollution</h2>
+<p>Water pollution occurs when harmful chemicals and waste materials are introduced into water bodies, such as rivers, lakes, and oceans. This affects aquatic life and can make water unsafe for human consumption.</p>
+</section>
+
+<section id="soil-pollution">
+<h2>Soil Pollution</h2>
+<p>Soil pollution is the contamination of soil by hazardous chemicals, waste, and other pollutants, usually due to industrial activity, agricultural chemicals, and improper disposal of waste. It affects crop growth and soil health.</p>
+</section>
+
+<section id="noise-pollution">
+<h2>Noise Pollution</h2>
+<p>Noise pollution is unwanted or harmful sound in the environment caused by activities such as traffic, industrial processes, and urban development. It can lead to hearing loss and stress-related illnesses.</p>
+</section>
+
+<section id="light-pollution">
+<h2>Light Pollution</h2>
+<p>Light pollution is the excessive or misdirected artificial light that brightens the night sky, affecting nocturnal wildlife and reducing the visibility of stars. It is caused by street lights, buildings, and other sources.</p>
+</section>
+</main>
+
+<footer>
+<p>&copy; 2024 Pollution Awareness Initiative</p>
+</footer>
+
+</body>
+</html>
